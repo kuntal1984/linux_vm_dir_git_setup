@@ -1,6 +1,6 @@
 #!/bin/bash
 
 sudo su -
-yum install git
+yum install git -y
 exit
 ~         
