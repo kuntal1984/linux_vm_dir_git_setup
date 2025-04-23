@@ -11,3 +11,4 @@ arti_dir='artifacts'
 mkdir -p $proj_path
 mkdir -p $proj_path/$script_dir
 mkdir -p $proj_path/$arti_dir
+touch /home/kuntal_rs/script_pull.log
